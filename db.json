@@ -1,0 +1,36 @@
+{
+    "favorites": [
+        {
+            "id": 1,
+            "imageUrl": "https://picsum.photos/id/97/500/500",
+            "title": "Product Title 1",
+            "discount": "Coupon",
+            "originalPrice": 63000,
+            "discountPrice": 55000
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://picsum.photos/id/134/500/500",
+            "title": "Product Title 2",
+            "discount": "Coupon",
+            "originalPrice": 2200,
+            "discountPrice": 1400
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://picsum.photos/id/176/500/500",
+            "title": "Product Title 3",
+            "discount": "Coupon",
+            "originalPrice": 60000,
+            "discountPrice": 12000
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://picsum.photos/id/265/500/500",
+            "title": "Product Title 4",
+            "discount": "Coupon",
+            "originalPrice": 230000,
+            "discountPrice": 87000
+        }
+    ]
+}
